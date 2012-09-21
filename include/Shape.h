@@ -1,3 +1,7 @@
+#ifndef SHAPE_H
+#define SHAPE_H
+
+
 #include <string>
 
 //Specifications for the Shape base class
@@ -17,3 +21,5 @@ class Shape
 
 
 };
+
+#endif
