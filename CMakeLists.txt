@@ -37,8 +37,7 @@ include_directories(${PROJECT_SOURCE_DIR}/gtest-1.6.0/include)
 add_executable(tests 
   src/test/lab4tests.cpp
   src/main/Shape.cpp
-  src/main/Circle.cpp
-  src/main/Square.cpp
+  src/main/Triangle.cpp
 )
 
 # The target_link_libraries takes a binary name and a library
